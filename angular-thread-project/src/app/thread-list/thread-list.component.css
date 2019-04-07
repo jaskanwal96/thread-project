@@ -1,0 +1,28 @@
+.item-content-block{padding:20px; border-top:2px solid #f6f6f2; background-color:#FFF; display:block;}
+.tags a{background-color:#756f5d; padding:10px; color:#fff; display:inline-block; font-size:11px; text-transform:uppercase; line-height:11px; border-radius:2px; margin-bottom:5px; margin-right:2px; text-decoration:none;}
+.tags a:hover{background-color:#a38018;}
+
+body{
+    width: 100%;
+    height: 100%;
+  }
+  .btn-group-sm .btn-fab{
+    position: fixed !important;
+    right: 29px;
+  }
+  .btn-group .btn-fab{
+    position: fixed !important;
+    right: 20px;
+  }
+  #main{
+    bottom: 20px;
+  }
+  #mail{
+    bottom: 80px
+  }
+  #sms{
+    bottom: 125px
+  }
+  #autre{
+    bottom: 170px
+  }
